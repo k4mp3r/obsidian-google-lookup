@@ -13,7 +13,7 @@
 		"calendar",
 		"obsidian"
 	],
-	"author": "nadim@park5.io",
+	"author": "k4mp3r",
 	"license": "MIT",
 	"devDependencies": {
 		"@types/node": "^16.11.6",

@@ -11,4 +11,5 @@ export type EventResult = {
 	}[];
 	startTime: string | undefined | null;
 	endTime: string | undefined | null;
+    hangoutLink: string | undefined | null;
 };

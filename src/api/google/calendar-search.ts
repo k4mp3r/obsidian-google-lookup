@@ -50,6 +50,7 @@ export const searchCalendarEvents = async (
 				organizer: organizer?.email || '',
 				startTime: start?.dateTime,
 				endTime: end?.dateTime,
+                hangoutLink: item.hangoutLink,
 				attendees:
 					attendees?.map((a) => {
 						return { response: a.responseStatus, email: a.email, name: a.displayName };

@@ -1,7 +1,7 @@
 ## Obsidian Google Lookup
 
-[![release](https://img.shields.io/github/v/release/ntawileh/obsidian-google-lookup?display_name=tag&sort=semver)](https://github.com/ntawileh/obsidian-google-lookup)
-[![MIT License](https://img.shields.io/github/license/ntawileh/obsidian-google-lookup)](LICENSE)
+[![release](https://img.shields.io/github/v/release/k4mp3r/obsidian-google-lookup?display_name=tag&sort=semver)](https://github.com/k4mp3r/obsidian-google-lookup)
+[![MIT License](https://img.shields.io/github/license/k4mp3r/obsidian-google-lookup)](LICENSE)
 
 [Obsidian](https://obsidian.md) plugin that can insert Google Calendar events and Google contact info directly into your notes
 

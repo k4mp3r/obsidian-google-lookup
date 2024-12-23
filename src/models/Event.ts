@@ -30,6 +30,7 @@ export class Event {
 			summary: this.#event.summary,
 			description: this.#event.description,
 			start: startMoment.format(this.#dateFormat ?? 'ddd, MMM Do @ hh:mma'),
+            hangoutLink: this.#event.hangoutLink,
 			link: this.#event.htmlLink,
 			organizer: this.#event.organizer,
 			attendees: this.#event.attendees

@@ -48,7 +48,7 @@ export class GoogleLookupSettingTab extends PluginSettingTab {
 			description: getDocumentFragmentWithLink(
 				'File containing template content for contact info.  Default template and more info',
 				'available here',
-				'https://ntawileh.github.io/obsidian-google-lookup/person'
+				'https://k4mp3r.github.io/obsidian-google-lookup/person'
 			),
 			placeholder: '_assets/templates/t_person',
 			key: 'template_file_person'
@@ -71,7 +71,7 @@ export class GoogleLookupSettingTab extends PluginSettingTab {
 			description: getDocumentFragmentWithLink(
 				'When the option to move and rename is enabled, the person note will have a title based on this format.  Default value is "{{lastname}}, {firstname}".  See template options',
 				'here',
-				'https://ntawileh.github.io/obsidian-google-lookup/person'
+				'https://k4mp3r.github.io/obsidian-google-lookup/person'
 			),
 
 			placeholder: '{{lastname}}, {{firstname}}',
@@ -83,7 +83,7 @@ export class GoogleLookupSettingTab extends PluginSettingTab {
 			description: getDocumentFragmentWithLink(
 				'File containing template content for events.  Default template and more info',
 				'available here',
-				'https://ntawileh.github.io/obsidian-google-lookup/event'
+				'https://k4mp3r.github.io/obsidian-google-lookup/event'
 			),
 			placeholder: '_assets/templates/t_event',
 			key: 'template_file_event'

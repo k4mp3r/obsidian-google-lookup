@@ -1,11 +1,11 @@
-site_name: Obsidian Google Lookup
-site_url: 'https://ntawileh.github.io/obsidian-google-lookup'
+site_name: Obsidian Google Lookup Extended
+site_url: 'https://k4mp3r.github.io/obsidian-google-lookup'
 site_description: Obsidian plugin for Google Contacts and Calendar
-site_author: nadim@park5.io
-copyright: Copyright &copy; 2022 nadim@park5.io
+site_author: K4mp3r
+copyright: MIT
 
-repo_name: 'ntawileh/obsidian-google-lookup'
-repo_url: 'https://github.com/ntawileh/obsidian-google-lookup'
+repo_name: 'k4mp3r/obsidian-google-lookup'
+repo_url: 'https://github.com/k4mp3r/obsidian-google-lookup'
 
 theme:
   name: material
