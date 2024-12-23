@@ -27,3 +27,4 @@ The two commands will show up only when there is an active editor/markdownview.
 ![](https://raw.githubusercontent.com/k4mp3r/obsidian-google-lookup/main/docs/images/commands.png)
 
 See [plugin documentation](https://k4mp3r.github.io/obsidian-google-lookup) for more info
+:)
